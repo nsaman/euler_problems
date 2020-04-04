@@ -42,7 +42,7 @@ public class Problem3_Largest_prime_factor {
             return currentLargest;
     }
 
-    private boolean isPrime(long number) {
+    public boolean isPrime(long number) {
         for(Long prime : primes) {
             if (number % prime == 0)
                 return false;
@@ -50,5 +50,9 @@ public class Problem3_Largest_prime_factor {
 
         primes.add(number);
         return true;
+    }
+
+    public int getPrimeSize(){
+        return primes.size();
     }
 }
