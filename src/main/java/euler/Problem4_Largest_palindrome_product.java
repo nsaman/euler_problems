@@ -1,3 +1,5 @@
+package euler;
+
 import org.apache.commons.lang3.StringUtils;
 
 public class Problem4_Largest_palindrome_product {

@@ -1,3 +1,5 @@
+package euler;
+
 public class Problem9_Special_Pythagorean_triplet {
     public static void main(String[] args) {
         PythagoreanTriplet triplet = findSummedPythagoreanTriplet(1000);

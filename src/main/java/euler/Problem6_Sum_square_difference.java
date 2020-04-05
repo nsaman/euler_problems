@@ -1,3 +1,5 @@
+package euler;
+
 public class Problem6_Sum_square_difference {
 
     public static void main(String[] args) {

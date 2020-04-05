@@ -1,3 +1,5 @@
+package euler;
+
 public class Problem2_Even_Fibonacci_numbers {
     public static void main(String[] args) {
         System.out.println(sumOfEvenFibonacci(4000000));

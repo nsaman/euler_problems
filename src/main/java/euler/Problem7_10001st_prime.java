@@ -1,3 +1,5 @@
+package euler;
+
 public class Problem7_10001st_prime {
     public static void main(String[] args) {
         System.out.println(nthPrime(10001));

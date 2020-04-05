@@ -1,3 +1,5 @@
+package euler;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.lang.Math;

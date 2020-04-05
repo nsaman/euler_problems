@@ -1,0 +1,2 @@
+euler problems: https://projecteuler.net/archives
+geeksforgeeks: https://www.geeksforgeeks.org/amazons-asked-interview-questions/
