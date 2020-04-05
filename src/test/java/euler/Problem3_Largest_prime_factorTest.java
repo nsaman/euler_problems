@@ -1,3 +1,6 @@
+package euler;
+
+import euler.Problem3_Largest_prime_factor;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

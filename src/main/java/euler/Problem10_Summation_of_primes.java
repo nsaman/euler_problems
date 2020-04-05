@@ -1,3 +1,5 @@
+package euler;
+
 public class Problem10_Summation_of_primes {
     public static void main(String[] args) {
         System.out.println(sumOfPrimeUnder(2000000));

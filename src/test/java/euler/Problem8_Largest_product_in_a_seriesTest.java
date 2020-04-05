@@ -1,4 +1,6 @@
-import org.junit.jupiter.api.Test;
+package euler;
+
+import euler.Problem8_Largest_product_in_a_series;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 

@@ -1,4 +1,6 @@
-import org.junit.jupiter.api.Test;
+package euler;
+
+import euler.Problem10_Summation_of_primes;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 

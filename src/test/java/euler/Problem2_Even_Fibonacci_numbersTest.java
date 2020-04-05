@@ -1,3 +1,6 @@
+package euler;
+
+import euler.Problem2_Even_Fibonacci_numbers;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

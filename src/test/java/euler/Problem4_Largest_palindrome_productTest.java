@@ -1,3 +1,6 @@
+package euler;
+
+import euler.Problem4_Largest_palindrome_product;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
