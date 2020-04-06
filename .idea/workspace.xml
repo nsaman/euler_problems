@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cb35ef9-c161-4958-b4ff-1b708b84025d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/K_largest_elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/Pythagorean_Triplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quicklinks.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/K_largest_elementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/Binary_Tree_to_DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/Lowest_Common_Ancestor_in_a_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/Special_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/Binary_Tree_to_DLLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/geeksforgeeks/Special_StackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/euler/Problem2_Even_Fibonacci_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/euler/Problem2_Even_Fibonacci_numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/euler/Problem3_Largest_prime_factor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/euler/Problem3_Largest_prime_factor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/euler/Problem4_Largest_palindrome_product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/euler/Problem4_Largest_palindrome_product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/euler/Problem5_Smallest_multiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/euler/Problem5_Smallest_multiple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/euler/Problem6_Sum_square_difference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/euler/Problem6_Sum_square_difference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/euler/Problem7_10001st_prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/euler/Problem7_10001st_prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/euler/Problem9_Special_Pythagorean_triplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/euler/Problem9_Special_Pythagorean_triplet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,104 +19,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/euler/Problem10_Summation_of_primes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks/K_largest_elements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="75" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1037#1038#0" expanded="true" />
-                <element signature="e#1086#1087#0" expanded="true" />
-                <element signature="e#1132#1133#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Pythagorean_Triplet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Special_Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="64" column="63" selection-start-line="64" selection-start-column="63" selection-end-line="64" selection-end-column="63" />
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1473#1474#0" expanded="true" />
-                <element signature="e#1662#1663#0" expanded="true" />
-                <element signature="e#1701#1702#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#874#875#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/quicklinks.txt">
+        <entry file="file://$PROJECT_DIR$/src/test/java/geeksforgeeks/Special_StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="79" lean-forward="true" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/euler/Problem5_Smallest_multiple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/euler/Problem6_Sum_square_difference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/euler/Problem7_10001st_prime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/euler/Problem8_Largest_product_in_a_series.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/euler/Problem9_Special_Pythagorean_triplet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -133,8 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -177,6 +97,11 @@
         <option value="$PROJECT_DIR$/src/test/java/geeksforgeeks/K_largest_elementsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/geeksforgeeks/K_largest_elements.java" />
         <option value="$PROJECT_DIR$/src/main/java/geeksforgeeks/Pythagorean_Triplet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/geeksforgeeks/Binary_Tree_to_DLLTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/geeksforgeeks/Binary_Tree_to_DLL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/geeksforgeeks/Lowest_Common_Ancestor_in_a_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/geeksforgeeks/Special_StackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/geeksforgeeks/Special_Stack.java" />
       </list>
     </option>
   </component>
@@ -201,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,10 +198,11 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586117636400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586205357795" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../groovy-eclipse-batch-2.4.3-01.jar!/" />
@@ -310,15 +235,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pythagorean_Triplet">
+  <component name="RunManager" selected="Application.Special_Stack">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K_largest_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.K_largest_elements" />
+    <configuration name="Binary_Tree_to_DLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.Binary_Tree_to_DLL" />
       <module name="euler_problems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -331,16 +256,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem10_Summation_of_primes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="euler.Problem10_Summation_of_primes" />
+    <configuration name="Lowest_Common_Ancestor_in_a_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.Lowest_Common_Ancestor_in_a_Binary_Tree" />
       <module name="euler_problems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pythagorean_Triplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.Pythagorean_Triplet" />
+    <configuration name="Special_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.Special_Stack" />
       <module name="euler_problems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -359,7 +290,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K_largest_elementsTest.testParseTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Special_StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="euler_problems" />
       <extension name="coverage">
         <pattern>
@@ -368,19 +299,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="geeksforgeeks" />
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.K_largest_elementsTest" />
-      <option name="METHOD_NAME" value="testParseTests" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.Special_StackTest" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem10_Summation_of_primesTest.sumOfPrimeUnder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Special_StackTest.testStackPushPop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="euler_problems" />
-      <option name="PACKAGE_NAME" value="euler" />
-      <option name="MAIN_CLASS_NAME" value="euler.Problem10_Summation_of_primesTest" />
-      <option name="METHOD_NAME" value="sumOfPrimeUnder(int,int)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geeksforgeeks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geeksforgeeks" />
+      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.Special_StackTest" />
+      <option name="METHOD_NAME" value="testStackPushPop" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -414,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pythagorean_Triplet" />
-        <item itemvalue="JUnit.K_largest_elementsTest.testParseTests" />
-        <item itemvalue="Application.K_largest_elements" />
-        <item itemvalue="Application.Problem10_Summation_of_primes" />
-        <item itemvalue="JUnit.Problem10_Summation_of_primesTest.sumOfPrimeUnder" />
+        <item itemvalue="Application.Special_Stack" />
+        <item itemvalue="JUnit.Special_StackTest" />
+        <item itemvalue="JUnit.Special_StackTest.testStackPushPop" />
+        <item itemvalue="Application.Lowest_Common_Ancestor_in_a_Binary_Tree" />
+        <item itemvalue="Application.Binary_Tree_to_DLL" />
       </list>
     </recent_temporary>
   </component>
@@ -454,25 +390,17 @@
       <option name="project" value="LOCAL" />
       <updated>1586110849468</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Packaging and adding geeksforgeeks problems 1 and 2">
+      <created>1586117683848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586117683848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Problem8_Largest_product_in_a_seriesTest_largestProductInASeries - 2020.04.04 at 13h 00m 06s.xml">
-      <configuration name="Problem8_Largest_product_in_a_seriesTest.largestProductInASeries" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Problem8_Largest_product_in_a_seriesTest_largestProductInASeries - 2020.04.04 at 13h 00m 09s.xml">
-      <configuration name="Problem8_Largest_product_in_a_seriesTest.largestProductInASeries" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Problem8_Largest_product_in_a_seriesTest_largestProductInASeriesExactSeries - 2020.04.04 at 13h 02m 42s.xml">
-      <configuration name="Problem8_Largest_product_in_a_seriesTest.largestProductInASeriesExactSeries" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Problem9_Special_Pythagorean_tripletTest_findSummedPythagoreanTriplet - 2020.04.04 at 13h 50m 36s.xml">
-      <configuration name="Problem9_Special_Pythagorean_tripletTest.findSummedPythagoreanTriplet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Problem9_Special_Pythagorean_tripletTest_findSummedPythagoreanTriplet - 2020.04.04 at 13h 53m 22s.xml">
-      <configuration name="Problem9_Special_Pythagorean_tripletTest.findSummedPythagoreanTriplet" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Problem9_Special_Pythagorean_tripletTest_findSummedPythagoreanTriplet - 2020.04.04 at 13h 54m 28s.xml">
       <configuration name="Problem9_Special_Pythagorean_tripletTest.findSummedPythagoreanTriplet" configurationId="JUnit" />
     </history-entry>
@@ -488,12 +416,27 @@
     <history-entry file="K_largest_elementsTest_testParseTests - 2020.04.05 at 14h 22m 56s.xml">
       <configuration name="K_largest_elementsTest.testParseTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Binary_Tree_to_DLLTest - 2020.04.05 at 18h 04m 04s.xml">
+      <configuration name="Binary_Tree_to_DLLTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Binary_Tree_to_DLLTest_testBTreeWithNulls - 2020.04.05 at 18h 08m 38s.xml">
+      <configuration name="Binary_Tree_to_DLLTest.testBTreeWithNulls" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Binary_Tree_to_DLLTest_testBTreeWithNulls - 2020.04.05 at 18h 09m 20s.xml">
+      <configuration name="Binary_Tree_to_DLLTest.testBTreeWithNulls" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Special_StackTest_testStackPushPop - 2020.04.06 at 15h 29m 43s.xml">
+      <configuration name="Special_StackTest.testStackPushPop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Special_StackTest - 2020.04.06 at 15h 30m 49s.xml">
+      <configuration name="Special_StackTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17750533" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -502,8 +445,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26666668" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26666668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -553,7 +496,8 @@
     <MESSAGE value="Completed problems 1-5" />
     <MESSAGE value="Completed problems 6-10" />
     <MESSAGE value="moving euler problems into their own package to seperate them from other learning sites" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving euler problems into their own package to seperate them from other learning sites" />
+    <MESSAGE value="Packaging and adding geeksforgeeks problems 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Packaging and adding geeksforgeeks problems 1 and 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -566,9 +510,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Pythagorean_Triplet.java</url>
-          <line>55</line>
+          <line>64</line>
           <properties />
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Binary_Tree_to_DLL.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Lowest_Common_Ancestor_in_a_Binary_Tree.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -799,13 +755,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/euler/Problem10_Summation_of_primes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -850,14 +800,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Pythagorean_Triplet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="64" column="63" selection-start-line="64" selection-start-column="63" selection-end-line="64" selection-end-column="63" />
+        <state relative-caret-position="135">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1425#1426#0" expanded="true" />
             <element signature="e#1473#1474#0" expanded="true" />
             <element signature="e#1662#1663#0" expanded="true" />
             <element signature="e#1701#1702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/geeksforgeeks/Binary_Tree_to_DLLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="59" lean-forward="true" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Lowest_Common_Ancestor_in_a_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="9" selection-start-column="42" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Binary_Tree_to_DLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="144" column="25" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/geeksforgeeks/Special_StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geeksforgeeks/Special_Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
           </folding>
         </state>
       </provider>
